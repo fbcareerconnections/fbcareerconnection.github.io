@@ -111,9 +111,11 @@ header.masthead .intro-text .intro-heading-sm {
 .button-section-text {
   font-size: 14px;
   max-width: 250px; 
-  margin: 5px auto 10px;
+  margin: 1px auto 5px;
 }
 
 .text-mini {
   font-size: 10px;
+  font-weight: bold;
+  margin: 3px 0px;
 }
