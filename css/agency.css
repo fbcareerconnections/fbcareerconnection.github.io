@@ -31,6 +31,7 @@ p {
 .btn {
   font-family: 'Outage', 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
+  font-size: 30px;
 }
 
 .btn-primary {
@@ -95,23 +96,6 @@ header.masthead .intro-text .intro-heading-sm {
   position: absolute; 
   top: 30px; 
   left: 30px
-}
-
-.button-section {
-  margin: 20px 0px;
-}
-
-.button-section-title {
-  font-weight: bold;
-  font-size: 25px;
-  margin: 0px;
-  font-family: 'Outage', 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-}
-
-.button-section-text {
-  font-size: 14px;
-  max-width: 250px; 
-  margin: 1px auto 5px;
 }
 
 .text-mini {
